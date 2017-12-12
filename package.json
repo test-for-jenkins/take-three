@@ -1,0 +1,15 @@
+{
+  "name": "take-three",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:test-for-jenkins/take-three.git",
+  "author": "Riza Fahmi <rizafahmi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  }
+}
